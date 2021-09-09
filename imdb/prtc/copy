@@ -1,0 +1,104 @@
+rating: LoadedCheerio {
+  '0': <ref *1> Node {
+    type: 'tag',
+    name: 'span',
+    namespace: 'http://www.w3.org/1999/xhtml',
+    attribs: [Object: null prototype] {
+      class: 'AggregateRatingButton__RatingScore-sc-1ll29m0-1 iTLWoV'
+    },
+    'x-attribsNamespace': [Object: null prototype] { class: undefined },
+    'x-attribsPrefix': [Object: null prototype] { class: undefined },
+    children: [ [Node] ],
+    parent: Node {
+      type: 'tag',
+      name: 'div',
+      namespace: 'http://www.w3.org/1999/xhtml',
+      attribs: [Object: null prototype],
+      'x-attribsNamespace': [Object: null prototype],
+      'x-attribsPrefix': [Object: null prototype],
+      children: [Array],
+      parent: [Node],
+      prev: null,
+      next: [Node]
+    },
+    prev: null,
+    next: Node {
+      type: 'tag',
+      name: 'span',
+      namespace: 'http://www.w3.org/1999/xhtml',
+      attribs: [Object: null prototype] {},
+      'x-attribsNamespace': [Object: null prototype] {},
+      'x-attribsPrefix': [Object: null prototype] {},
+      children: [Array],
+      parent: [Node],
+      prev: [Circular *1],
+      next: null
+    }
+  },
+  '1': <ref *2> Node {
+    type: 'tag',
+    name: 'span',
+    namespace: 'http://www.w3.org/1999/xhtml',
+    attribs: [Object: null prototype] {
+      class: 'AggregateRatingButton__RatingScore-sc-1ll29m0-1 iTLWoV'
+    },
+    'x-attribsNamespace': [Object: null prototype] { class: undefined },
+    'x-attribsPrefix': [Object: null prototype] { class: undefined },
+    children: [ [Node] ],
+    parent: Node {
+      type: 'tag',
+      name: 'div',
+      namespace: 'http://www.w3.org/1999/xhtml',
+      attribs: [Object: null prototype],
+      'x-attribsNamespace': [Object: null prototype],
+      'x-attribsPrefix': [Object: null prototype],
+      children: [Array],
+      parent: [Node],
+      prev: null,
+      next: [Node]
+    },
+    prev: null,
+    next: Node {
+      type: 'tag',
+      name: 'span',
+      namespace: 'http://www.w3.org/1999/xhtml',
+      attribs: [Object: null prototype] {},
+      'x-attribsNamespace': [Object: null prototype] {},
+      'x-attribsPrefix': [Object: null prototype] {},
+      children: [Array],
+      parent: [Node],
+      prev: [Circular *2],
+      next: null
+    }
+  },
+  length: 2,
+  options: { xml: false, decodeEntities: true },
+  _root: <ref *3> LoadedCheerio {
+    '0': Node {
+      type: 'root',
+      name: 'root',
+      parent: null,
+      prev: null,
+      next: null,
+      children: [Array],
+      'x-mode': 'no-quirks'
+    },
+    length: 1,
+    options: { xml: false, decodeEntities: true },
+    _root: [Circular *3]
+  },
+  prevObject: <ref *3> LoadedCheerio {
+    '0': Node {
+      type: 'root',
+      name: 'root',
+      parent: null,
+      prev: null,
+      next: null,
+      children: [Array],
+      'x-mode': 'no-quirks'
+    },
+    length: 1,
+    options: { xml: false, decodeEntities: true },
+    _root: [Circular *3]
+  }
+}
